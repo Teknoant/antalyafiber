@@ -1,0 +1,1 @@
+import{MessageCircle}from'lucide-react';export default function Whatsapp(){return <a className="wa" href="https://wa.me/905326222235?text=Merhaba%20Antalya%20Fiber,%20bilgi%20almak%20istiyorum." target="_blank" rel="noreferrer" aria-label="WhatsApp"><MessageCircle size={27}/></a>}
